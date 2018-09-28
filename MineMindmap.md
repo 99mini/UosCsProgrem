@@ -1,7 +1,7 @@
 # 자기소개 마인드맵
 ### 컴퓨터 과학부 2018920011 김영민 (4조)
 
-![자기소개마인드맵](https://picasaweb.google.com/105690647232824807429/6606259623395550769#6606259630771385186 "자기소개마인드맵")
+![자기소개마인드맵](https://lh3.googleusercontent.com/ItFhVX3A7mfoEAMHdQAYGOniuip6xdlSGpNFnCmr5kzUezblR3qrTb0llwrxrcsOJjzYLM0sNoFf)
 
 * **가족**
   * 아빠
